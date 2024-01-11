@@ -20,8 +20,8 @@ export class LoginComponent {
     private _display: DisplayService
   ) {
     this.form = _fb.group({
-      username: ['', Validators.required],
-      password: ['', Validators.required],
+      username: ['Assaf', Validators.required],
+      password: ['Assaf123', Validators.required],
     });
   }
   login() {

@@ -75,3 +75,18 @@ ul,li{
 .ngx-lite-video {
   border-radius: 15px;
 }
+
+  .p-button.p-button-info, .p-buttonset.p-button-info > .p-button, .p-splitbutton.p-button-info > .p-button {
+    color: #ffffff;
+    background: transparent !important;
+    border: 1px solid #3B82F6;
+  }
+
+  .p-accordion .p-accordion-header .p-accordion-header-link{
+    padding: 0.4rem;
+  }
+
+
+.p-accordion .p-accordion-content {
+    padding: 0.5rem;
+}

@@ -19,10 +19,10 @@ const routes: Routes = [
         component: GetStartedComponent,
       },
       // Our Team route
-      {
-        path: 'our-team',
-        component: OurTeamComponent,
-      },
+      // {
+      //   path: 'our-team',
+      //   component: OurTeamComponent,
+      // },
       // Components route
       {
         path: 'components',
